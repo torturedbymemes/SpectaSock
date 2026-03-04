@@ -1239,6 +1239,9 @@
   id: RipleyRLeg # PartAssembly: RipleyHarness. ItemMapper: RipleyHarness
 
 - type: Tag
+  id: Rollerbeds # Used by rescue borg module for all three rollerbeds
+
+- type: Tag
   id: RollingPaper # Storage whitelist: PackPaperRolling, PackPaperRollingFilters
 
 - type: Tag

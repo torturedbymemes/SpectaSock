@@ -7,6 +7,25 @@
       speaks:
       - GalacticCommon
       - Machine
+      - SolCommon # SpL
+      - Canilunzt # SpL
+      - Sign # SpL - Might be troublesome for them but if it messes up I'll turn off sign for borgs until fixed
+      - Bubblish # SpL
+      - Chittin # SpL
+      - Draconic # SpL
+      - Marish # SpL
+      - Moffic # SpL
+      - Nekomimetic # SpL
+      - Sylvan # SpL
+      - Terrum # SpL
+      - VoxPidgin # SpL
+      - Scratch # SpL
+      - Thaveyan # SpL
+      - Darktongue # SpL 
+      - Classical # SpL
+      - Grumbakul # SpL
+      - Aielic # SpL
+      - Lagomorphian # SpL
       understands:
       - GalacticCommon
       - SolCommon
@@ -40,6 +59,25 @@
       - GalacticCommon
       - Machine
       - Dog
+      - SolCommon # SpL
+      - Canilunzt # SpL
+      - Sign # SpL - same as base borg languages
+      - Bubblish # SpL
+      - Chittin # SpL
+      - Draconic # SpL
+      - Marish # SpL
+      - Moffic # SpL
+      - Nekomimetic # SpL
+      - Sylvan # SpL
+      - Terrum # SpL
+      - VoxPidgin # SpL
+      - Scratch # SpL
+      - Thaveyan # SpL
+      - Darktongue # SpL
+      - Classical # SpL
+      - Grumbakul # SpL
+      - Aielic # SpL
+      - Lagomorphian # SpL
       understands:
       - GalacticCommon
       - SolCommon

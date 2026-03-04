@@ -979,6 +979,14 @@
     hands:
     - item: HandheldHealthAnalyzer
     - item: DefibrillatorOneHandedUnpowered
+    - item: EmergencyHandheldCrewMonitorBorg
+    - item: EmergencyRollerBedSpawnFolded
+      hand:
+        emptyLabel: borg-slot-rollerbeds-empty
+        emptyRepresentative: EmergencyRollerBed
+        whitelist:
+          tags:
+          - Rollerbeds
     - item: Crowbar
     - item: BorgFireExtinguisher
     - item: BorgHandheldGPSBasic
